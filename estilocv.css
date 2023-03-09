@@ -1,0 +1,141 @@
+
+            * { 
+               box-sizing:border-box ;
+              }
+
+     h1       {
+              
+              color:blue;
+              
+              
+              }
+    body      {
+              background-color: lightgray;
+              color: black;
+            
+              @media only screen and (max-width: 600px) {
+              body {
+                 background-color: lightblue;
+                   }}     
+              }
+
+   header     {
+              width: 100%;
+              overflow: hidden;
+              background-color: lightgray;
+              margin-bottom: 20px;
+              width: 60%;
+              float: right;
+             
+              
+              }
+
+
+.Detalles     {
+              background-color: lightgrey;
+              width: 400px;
+              border: 1px solid blue;
+              padding: 10px;
+              margin: 10px;
+              border: 1px solid blue;
+              width: 45%;
+              float: left;
+              }
+.Experiencia  {
+              background-color: lavender;
+              width: 300px;
+              height: 520px;
+              padding: 10px;
+              margin: 10px;
+              border: 1px solid blue;
+              width: 45%;
+              float: right;
+ 
+ 
+     
+              } 
+.Habilidades  {
+               background-color: lightgrey;
+               width: 400px;
+               border: 1px solid blue;
+               padding: 10px;
+               margin: 10px;
+               width: 45%;
+               float: left;
+              }             
+              
+.Educacion    {
+              background-color:lavender;
+              width: 300px;
+              height: 250px;
+              padding: 10px ;
+              margin: 10px;
+              border: 1px solid blue;
+              width: 45%;
+              float: right;
+              }
+
+.Idiomas      {
+              background-color:lightgrey;
+              width: 400px;
+              border: 1px solid blue;
+              padding: 10px;
+              margin: 10px;
+              width: 45%;
+              float: left;
+              }
+.wrapper      {
+              width: 90%;
+              max-width: 1000px;
+              margin:auto;
+              overflow:hidden ;
+              }           
+
+
+#el_detalle   {
+              color:blue;
+              font-size: 20px;
+              padding: 10px 5px 5px;
+              border: 2px solid blue;
+              }  
+#el_explab    {
+              color: blue;
+              font-size: 20px;
+              padding: 10px 5px 5px;
+              border: 2px solid blue;            
+              } 
+#el_educa     {
+              color:blue;
+              font-size: 20px;
+              padding: 10px 5px 5px;
+              border: 2px solid blue;
+              }       
+#el_habili    {
+              color:blue;
+              font-size: 20px;
+              padding: 10px 5px 5px;
+              border: 2px solid blue;
+              }               
+#el_detalle3  {
+              color:blue;
+              font-size: 20px;
+              padding: 10px 5px 5px;
+              border: 2px solid blue;
+              }  
+ 
+              
+                          
+ 
+             
+
+
+
+
+
+
+
+
+
+
+ 
+
